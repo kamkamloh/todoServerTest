@@ -31,7 +31,7 @@ The following was test todo REST API using the [Spring Boot Framework]. The API 
 <img src="https://github.com/kamkamloh/todoServerTest/tree/main/Todo-REST-API-loh/readme/readme/getacesstoken.png?raw=true"  alt="Demo screen postman">
 
 ###  Add a TODO item.
-<img src="https://github.com/kamkamloh/todoServerTest/tree/main/Todo-REST-API-loh/readme/readme/additem.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/additem.png?raw=true"  alt="Demo screen postman">
 
 ###  Delete a TODO item.
 <img src="https://github.com/kamkamloh/todoServerTest/tree/main/Todo-REST-API-loh/readme/readme/deleteItem.png?raw=true"  alt="Demo screen postman">
