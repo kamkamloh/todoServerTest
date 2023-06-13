@@ -28,20 +28,20 @@ The following was test todo REST API using the [Spring Boot Framework]. The API 
 ### interface documentation
 
 ### Sign in via google
-<img src="Todo-REST-API-loh/readme/readme/getacesstoken.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/getacesstoken.png?raw=true"  alt="Demo screen postman">
 
 ###  Add a TODO item.
 <img src="Todo-REST-API-loh/readme/additem.png?raw=true"  alt="Demo screen postman">
 
 ###  Delete a TODO item.
-<img src="Todo-REST-API-loh/readme/readme/deleteItem.png?raw=true"  alt="Demo screen postman">
-<img src="Todo-REST-API-loh/readme/readme/deleteInvalid.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/deleteItem.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/deleteInvalid.png?raw=true"  alt="Demo screen postman">
 
 ###  List all TODO items.
-<img src="Todo-REST-API-loh/readme/readme/todolist.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/todolist.png?raw=true"  alt="Demo screen postman">
 
 ###  Mark a TODO item as completed.
-<img src="Todo-REST-API-loh/readme/readme/updateitem.png?raw=true"  alt="Demo screen postman">
+<img src="Todo-REST-API-loh/readme/updateitem.png?raw=true"  alt="Demo screen postman">
 
 
 
