@@ -1,0 +1,13 @@
+CREATE DATABASE `todo` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+
+
+CREATE TABLE `todo0_` (
+  `todo_item_id` char(36) NOT NULL,
+  `todo_title` varchar(100) DEFAULT NULL,
+  `todo_description` varchar(255) DEFAULT NULL,
+  `is_complete` tinyint(1) DEFAULT NULL,
+  `todo_date` date DEFAULT NULL,
+  `creation_date` datetime DEFAULT NULL,
+  `update_date` datetime DEFAULT NULL,
+  PRIMARY KEY (`todo_item_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
